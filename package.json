@@ -1,9 +1,13 @@
 {
   "name": "clipcc-block",
-  "version": "1.0.0",
+  "version": "0.1.1",
   "description": "A library for building creative computing interfaces.",
   "author": "Clip Team",
   "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AlexJason/clipcc-block.git"
+  },
   "keywords": [
     "clipcc",
     "block"
